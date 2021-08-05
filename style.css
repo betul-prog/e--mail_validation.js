@@ -1,0 +1,23 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+    text-align: center;
+    font-size: 30px;
+}
+​
+input {
+    margin-left: 15px;
+}
+​
+#validate {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}
+​
+span {
+    background-color: white;
+    border: 1px solid black;
+}
